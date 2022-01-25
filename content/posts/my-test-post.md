@@ -1,7 +1,6 @@
 ---
-title: "My Test Post"
-date: 2022-01-24T18:22:18-08:00
-draft: false
----
+title: My Test Post
+date: 2022-01-24T18:22:18.000-08:00
 
-Hello Idiot!!!
+---
+Hello Idiot!!! Change made
